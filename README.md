@@ -1,7 +1,7 @@
 <h1>Group Policy Objects</h1>
 
 <h2>Description</h2>
-project demonstrates the setup and configuration of Group Policy Objects (GPO) in a virtualized environment using VMware and Windows Server 2022.
+This project demonstrates the setup and configuration of Group Policy Objects (GPO) in a virtualized environment using VMware and Windows Server 2022.
 <br />
 
 
